@@ -20,3 +20,9 @@ To add GNU Terry Pratchett to a write.as site, you need to include a custom HTTP
 3.	Save the changes and test your site. While this won’t add a true HTTP header (since that requires server-side control), it ensures the message appears in the metadata of your page.
 
 For the uninitiated, I first learned that this is all about, here: [https://mikecoats.com/x-clacks-overhead/](https://mikecoats.com/x-clacks-overhead/)
+
+</br>
+</br>
+<p align="center">
+  <img src="Clacks.gif" alt="GNU Terry Pratchett" />
+</p>
