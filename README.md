@@ -7,7 +7,7 @@ To add GNU Terry Pratchett to a write.as site, you need to include a custom HTTP
 1.	Add a JavaScript snippet to your write.as site using the Custom JavaScript feature.
 2.	Insert the following script in your site’s Customize section:
 
-```
+```javascript 
 (function() {
     var meta = document.createElement('meta');
     meta.httpEquiv = "X-Clacks-Overhead";
